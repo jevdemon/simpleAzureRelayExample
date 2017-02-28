@@ -1,0 +1,24 @@
+C:\code\Hacks\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe.config
+C:\code\Hacks\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe
+C:\code\Hacks\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.pdb
+C:\code\Hacks\RelayServerListener\RelayServerListener\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.exe
+C:\code\Hacks\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.pdb
+C:\code\Hacks\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.csprojResolveAssemblyReference.cache
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe.config
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.exe
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.pdb
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.pdb
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\Azure Relay\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.csprojResolveAssemblyReference.cache
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe.config
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.exe
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.pdb
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.pdb
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\Azure Relay\Simple\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.csprojResolveAssemblyReference.cache
+C:\code\Hacks\AzureRelay\Simple\RelayServerListener\RelayServerListener\bin\Debug\RelayServerListener.exe.config
+C:\code\Hacks\AzureRelay\Simple\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.exe
+C:\code\Hacks\AzureRelay\Simple\RelayServerListener\RelayServerListener\obj\Debug\RelayServerListener.pdb

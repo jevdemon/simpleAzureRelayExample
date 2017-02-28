@@ -1,0 +1,27 @@
+C:\code\Hacks\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe.config
+C:\code\Hacks\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe
+C:\code\Hacks\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.pdb
+C:\code\Hacks\RelayClientSender\RelayClientSender\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.exe
+C:\code\Hacks\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.pdb
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe.config
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.exe
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.pdb
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.pdb
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\Azure Relay\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.csprojResolveAssemblyReference.cache
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe.config
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.exe
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.pdb
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.pdb
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\Azure Relay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.csprojResolveAssemblyReference.cache
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe.config
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.exe
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.pdb
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.exe
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\bin\Debug\RelayClientSender.pdb
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\bin\Debug\Microsoft.Azure.Relay.dll
+C:\code\Hacks\AzureRelay\Simple\RelayClientSender\RelayClientSender\obj\Debug\RelayClientSender.csprojResolveAssemblyReference.cache
